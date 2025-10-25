@@ -24,5 +24,9 @@ EXPOSE 80
 # 8️⃣ Контейнер иштегенде Nginx’ти баштоо
 CMD ["nginx", "-g", "daemon off;"]
 
+
+
+
+
 #docker compose build
 #docker compose up -d
